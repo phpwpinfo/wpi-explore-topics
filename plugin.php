@@ -9,6 +9,8 @@ Author: WPIndex
 Author URI: http://phpwpinfo.com
 Plugin URI:
 tags:tags,search tags, search topic, filter topics, filter tags, 
+GitHub Plugin URI: https://github.com/phpwpinfo/wpi-explore-topics
+GitHub Branch:     master
 */
 
 include(plugin_dir_path( __FILE__ )."/wpi_explore_topics.php");
