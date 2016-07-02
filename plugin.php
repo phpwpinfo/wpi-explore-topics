@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: WPI Explore Topics
+Plugin Name: ABCD WPI Explore Topics
 Description: Show all tags in alphabetical order and search as you type filter for a topic/tag
-Version: 1.1
+Version: 1.0
 Tested up to: WPMU 4.4.2
 License: GNU General Public License 2.0 (GPL) http://www.gnu.org/licenses/gpl.html
 Author: WPIndex
